@@ -1,7 +1,5 @@
 # Mystical925 - Landing Page  
 
-![Mystical925 Banner](https://via.placeholder.com/1200x400)  
-
 Landing page responsiva para uma loja de joias em **Prata 925**, desenvolvida com **HTML, CSS e Bootstrap 5** para proporcionar um design moderno, elegante e adaptável a diferentes dispositivos.  
 
 ## 🚀 Tecnologias Utilizadas  
