@@ -10,7 +10,7 @@ Landing page responsiva para uma loja de joias em **Prata 925**, desenvolvida co
 
 ## 📸 Preview  
 
-📍 *Demonstração ao vivo*: [Coloque aqui o link do deploy se houver]  
+📍 *Demonstração ao vivo*: https://jonathanrenanborges.github.io/mystical925-landingpage/
 
 ## 🎯 Funcionalidades  
 
